@@ -1,0 +1,8 @@
+toyota_intact_dataset
+toyota_dataset.zip
+.venv
+__pycache__/
+.ipynb_checkpoints
+*.pyc
+.DS_Store
+.vscode/
