@@ -1,5 +1,4 @@
-toyota_intact_dataset
-toyota_dataset.zip
+cars_dataset
 .venv
 .venv-gpu
 __pycache__/
@@ -8,4 +7,4 @@ __pycache__/
 .DS_Store
 .vscode/
 *.pt
-models/
+models/*.pth
