@@ -1,1 +1,1 @@
-# Toyota CNN
+# Car classification with CNNs using PyTorch
