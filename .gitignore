@@ -1,0 +1,11 @@
+cars_dataset
+.venv
+venv
+.venv-gpu
+__pycache__/
+.ipynb_checkpoints
+*.pyc
+.DS_Store
+.vscode/
+*.pt
+models/*.pth
